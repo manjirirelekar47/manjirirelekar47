@@ -1,6 +1,6 @@
 <!-- Dark Blue Animated Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1e36&height=200&section=header&text=Hello,%20I'm%20Manjiri !&fontSize=50&fontColor=60A5FA&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1e36&height=200&section=header&text=Hello,%20I%27m%20Manjiri!&fontSize=50&fontColor=60A5FA&animation=twinkling" alt="Header Banner" />
 </div>
 
 <!-- Typing Animation -->
@@ -24,14 +24,14 @@
 
 ### About Me
 
-I'm a Second-year IT Engineering student at Cummins College of Engineering for Women and a passionate tech enthusiast. I enjoy translating complex logic into functional, scalable products. My primary focus lies in building interactive web applications, exploring smart AI agents, and working with data-driven systems.
+I'm a Second-year IT Engineering student at Cummins College of Engineering for Women. I specialize in translating complex logic into scalable products, focusing on interactive web applications and smart AI agents.
 
-* **Currently:** Expanding my full-stack capabilities (React, Node.js, PostgreSQL) and exploring emerging technologies.
-* **Development:** I enjoy building a variety of hands-on projects, experimenting with Python and machine learning integrations, and turning conceptual ideas into reality.
-* **Community:** Actively participating in hackathons, contributing to collaborative environments, and continuously exploring new facets of the tech industry.
-* **Learning:** Advanced Data Structures & Algorithms, while continuously sharpening my problem-solving skills.
+- **Currently:** Expanding full-stack capabilities (React, Node.js, PostgreSQL).
+- **Development:** Building hands-on projects with Python and machine learning integrations.
+- **Community:** Actively participating in hackathons and collaborative tech events.
+- **Learning:** Advanced Data Structures & Algorithms.
 
-My core objective is to write clean, maintainable code, build reliable software architecture, and grow into a software engineer capable of designing systems that scale.
+My objective is to write clean, maintainable code and grow into an engineer capable of designing systems that scale.
 
 <br />
 

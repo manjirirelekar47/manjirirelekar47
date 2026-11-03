@@ -43,10 +43,10 @@ My objective is to write clean, maintainable code and grow into an engineer capa
 
 <br />
 
-### GitHub Contributions
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjirirelekar47&bg_color=0b1e36&color=60A5FA&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=Total%20Contributions" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manjirirelekar47&show_icons=true&bg_color=0b1e36&title_color=60A5FA&text_color=ffffff&icon_color=60A5FA&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <br />

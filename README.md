@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Dark Blue Animated Wave Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1e36&height=200&section=header&text=Hello,%20I'm%20Manjiri !&fontSize=50&fontColor=60A5FA&animation=twinkling" />
+</div>
 
-<!--
-**manjirirelekar47/manjirirelekar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=Building+Smart+AI+Agents;Full-Stack+Web+Developer;Hackathon+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- Social Links -->
+<div align="center">
+  <a href="https://github.com/manjirirelekar47">
+    <img src="https://img.shields.io/badge/GitHub-0b1e36?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/manjiri-relekar-d472007/">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1e36?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### About Me
+
+I'm a Second-year IT Engineering student at Cummins College of Engineering for Women and a passionate tech enthusiast. I enjoy translating complex logic into functional, scalable products. My primary focus lies in building interactive web applications, exploring smart AI agents, and working with data-driven systems.
+
+* **Currently:** Expanding my full-stack capabilities (React, Node.js, PostgreSQL) and exploring emerging technologies.
+* **Development:** I enjoy building a variety of hands-on projects, experimenting with Python and machine learning integrations, and turning conceptual ideas into reality.
+* **Community:** Actively participating in hackathons, contributing to collaborative environments, and continuously exploring new facets of the tech industry.
+* **Learning:** Advanced Data Structures & Algorithms, while continuously sharpening my problem-solving skills.
+
+My core objective is to write clean, maintainable code, build reliable software architecture, and grow into a software engineer capable of designing systems that scale.
+
+<br />
+
+### Technical Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,ts,tailwind,nodejs,express,fastapi,postgres,supabase,docker,git,github,figma&theme=dark" alt="Tech Stack" />
+</div>
+
+<br />
+
+### GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjirirelekar47&bg_color=0b1e36&color=60A5FA&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=Total%20Contributions" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Crafting logic with an artistic touch."</i>
+</div>
